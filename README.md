@@ -69,3 +69,5 @@ Atualmente atuo como **Desenvolvedor Backend no Itaú Unibanco**, focado em sist
 <div align="center">
   <p><i>"Observando o problema como uma águia, sem perder de vista o objetivo estratégico."</i></p>
 </div>
+
+
