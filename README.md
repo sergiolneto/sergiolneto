@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Sergio Neto!
 
 <div align="center">
-  <img src="https://sergiolneto.github.io/images/Sergio_Neto.JPG" width="200" style="border-radius: 50%;" alt="Sergio Neto">
   <h3>Desenvolvedor Backend | Analista de Sistemas</h3>
   <p>Localizado em Diadema, SP 📍</p>
 </div>
